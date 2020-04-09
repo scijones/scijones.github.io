@@ -25,7 +25,7 @@ And, once upon a time, I thought I was going to be a physicist:
 
 ## Where the academic tries to demonstrate a personality
 
-<details><summary>Here's a story about COVID-19 isolation and apartments.</summary>  
+Here's a story about COVID-19 isolation and apartments:
 
 
 <br/> I decided that while alone in my ship for an indeterminate period of time, I may as well document some of my life. I realize some people on Earth may not understand the “daily” life out here ([there’s no real Earth-like schedule anymore](https://i.redd.it/jt4bmuw4hiq41.jpg) unless I enforce one by alarms and routine), so I hope this message helps to explain how things are going.  
@@ -60,5 +60,3 @@ And, once upon a time, I thought I was going to be a physicist:
 
 
 <br/> Despite the availability of virtual interaction, I am also enjoying solitude. When I follow the [social networking news media](https://www.forbes.com/sites/petersuciu/2019/10/11/more-americans-are-getting-their-news-from-social-media/), I am reminded of the notions that we were once more tribal, and [it honestly does not appear to me that much has changed](https://en.wikipedia.org/wiki/Tiger_King:_Murder,_Mayhem_and_Madness).  
-
-<br/></details>

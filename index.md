@@ -43,7 +43,7 @@ Here's a story about COVID-19 isolation and apartments:
 
 
 
-<br/> My food supply is not vast, but I have sufficient reserves to last me for awhile should shipments become rationed. Emergency supplies include [meal replacements that are designed to technically fit my nutritional needs](https://huel.com), but while I can afford it, I’ve also been using shipments of frozen food and dry goods to create meals. I know that it is an inefficient use of my labor time while I am supposed to be engaged in research out here, but the meals themselves appear to be an efficient use of my ingredients while providing additional sanity. Also, by making [large batches](https://www.countryliving.com/food-drinks/g1903/slow-cooker-recipes/), I am able to reduce the total labor spent per calorie intake.  
+<br/> My food supply is not vast, but I have sufficient reserves to last me for awhile should shipments become rationed. Emergency supplies include [meal replacements that are designed to technically fit my nutritional needs](https://huel.com), but while I can afford it, I’ve also been using shipments of frozen food and dry goods to create meals. I know that it is an inefficient use of my labor time while [I am supposed to be engaged in research out here](https://www.washingtonpost.com/history/2020/03/12/during-pandemic-isaac-newton-had-work-home-too-he-used-time-wisely/ "This was unironically sent with what were honestly good intentions from a faculty member."), but the meals themselves appear to be an efficient use of my ingredients while providing additional sanity. Also, by making [large batches](https://www.countryliving.com/food-drinks/g1903/slow-cooker-recipes/), I am able to reduce the total labor spent per calorie intake.  
 
 
 

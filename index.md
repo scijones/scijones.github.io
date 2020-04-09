@@ -9,13 +9,13 @@ readily available.
 
 ## Publications
 
-*Efficient computation of spreading activation using lazy evaluation*
-
-*Architectural Mechanisms for Mitigating Uncertainty during Long-Term Declarative Knowledge Access*
+*Anticipatory Thinking in Cognitive Architectures with Event Cognition Mechanisms*
 
 *An Architecture Approach to Modeling the Remote Associates Test*
 
-*Anticipatory Thinking in Cognitive Architectures with Event Cognition Mechanisms*
+*Architectural Mechanisms for Mitigating Uncertainty during Long-Term Declarative Knowledge Access*
+
+*Efficient computation of spreading activation using lazy evaluation*
 
 And, once upon a time, I thought I was going to be a physicist:
 

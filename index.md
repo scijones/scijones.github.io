@@ -31,7 +31,7 @@ Here's a story about COVID-19 isolation and apartments:
 <br/> I decided that while alone in my ship for an indeterminate period of time, I may as well document some of my life. I realize some people on Earth may not understand the “daily” life out here ([there’s no real Earth-like schedule anymore](https://i.redd.it/jt4bmuw4hiq41.jpg) unless I enforce one by alarms and routine), so I hope this message helps to explain how things are going.  
 
 
-<br/> One thing you may not understand regarding ships like mine is [how much I depend on intermittent supply shipments](https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/food-prices-and-spending/) to maintain the ecosystem that supports my life onboard this ship. This ship features almost no long-term self-sustaining life support. [These shipments of supplies](https://www.ams.usda.gov/services/transportation-analysis) are what allow lives like mine to persist in such [harsh and unnatural environments](https://www.ers.usda.gov/data-products/food-access-research-atlas/go-to-the-atlas.aspx).  
+<br/> One thing you may not understand regarding ships like mine is [how much I depend on intermittent supply shipments](https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/food-prices-and-spending/) to maintain the ecosystem that supports my life onboard this ship. This ship features almost no long-term self-sustaining life support. [These shipments of supplies](https://www.ams.usda.gov/services/transportation-analysis) are what allow lives like mine to persist in the [harsh and unnatural environment](https://www.ers.usda.gov/data-products/food-access-research-atlas/go-to-the-atlas.aspx) of space.  
 
 
 

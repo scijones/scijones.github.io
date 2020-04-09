@@ -7,7 +7,7 @@ focusing on implementation of event cognition functionality. My general underlyi
 subsymbolic mechanisms which provide new functionality to agents by making different types of knowledge more 
 readily available.
 
-## Publications
+## [Publications](https://scholar.google.com/citations?user=rLU0MfYAAAAJ "Google Scholar profile")
 
 *Anticipatory Thinking in Cognitive Architectures with Event Cognition Mechanisms*
 

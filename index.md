@@ -46,6 +46,7 @@ Here's a story about COVID-19 isolation and apartments:
 <br/> My food supply is not vast, but I have sufficient reserves to last me for awhile should shipments become rationed. Emergency supplies include [meal replacements that are designed to technically fit my nutritional needs](https://huel.com), but while I can afford it, I’ve also been using shipments of frozen food and dry goods to create meals. I know that it is an inefficient use of my labor time while [I am supposed to be engaged in research out here](https://www.washingtonpost.com/history/2020/03/12/during-pandemic-isaac-newton-had-work-home-too-he-used-time-wisely/ "This was unironically sent with what were honestly good intentions from a faculty member."), but the meals themselves appear to be an efficient use of my ingredients while providing additional sanity. Also, by making [large batches](https://www.countryliving.com/food-drinks/g1903/slow-cooker-recipes/), I am able to reduce the total labor spent per calorie intake.  
 
 
+<br/> In order to maintain my physical health while isolated on this ship, I have been communicating with another in isolation through video chat and we have been working out almost daily. Without this routine physical activity, my body and mind would decay. Though I have the equipment on my ship and the interaction is only social, I find it helps me to maintain my routine.  
 
 <br/> Sanity is probably the more interesting thing to consider. On Earth, the social interaction that you take for granted does not have to be regulated as yet another life support system. However, [in my profession, mental health is the more likely killer.](https://www.theatlantic.com/education/archive/2018/11/anxiety-depression-mental-health-graduate-school/576769/) Additionally, while it is not usually advised, I am the only human on my ship. Thankfully, I have a lizard and a cat as pets. I am lucky. While many out here scrounge by, my research funding has afforded me the luxury of unnecessary life support for these companions. I have found that my cat has acclimated better to the ship’s rhythmic lighting meant to simulate day. Each morning, he wakes me so that I will feed him. I do not have an automatic dispenser as I am still figuring out the correct rationing for him to maintain a healthy weight while not vomiting and requiring me to expend additional labor maintaining the ship. The lizard, honestly, does not provide much companionship and I am taking care of it until I can finally dock with my companion who disembarked at a port earlier to be with family during this viral outbreak.  
 
@@ -55,8 +56,6 @@ Here's a story about COVID-19 isolation and apartments:
 
 
 
-<br/> In order to maintain my physical health while isolated on this ship, I have been communicating with another in isolation through video chat and we have been working out almost daily. Without this routine physical activity, my body and mind would decay. Though I have the equipment on my ship and the interaction is only social, I find it helps me to maintain my routine.  
-
-
-
 <br/> Despite the availability of virtual interaction, I am also enjoying solitude. When I follow the [social networking news media](https://www.forbes.com/sites/petersuciu/2019/10/11/more-americans-are-getting-their-news-from-social-media/), I am reminded of the notions that we were once more tribal, and [it honestly does not appear to me that much has changed](https://en.wikipedia.org/wiki/Tiger_King:_Murder,_Mayhem_and_Madness).  
+
+<br/>I hope this log helps people of Earth to appreciate how life is different in space.

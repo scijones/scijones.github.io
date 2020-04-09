@@ -1,6 +1,6 @@
-Hey, I'm Steven J. Jones and I'm a grad student at the University of Michigan in John Laird's Soar Group.
+Hey, I'm Steven J. Jones and I'm a grad student at the University of Michigan in John Laird's Soar Group. I enjoy understanding how people think, to the extent that I can.
 
-Most of my work amounts to adding subsymbolic mechanisms to the Soar Cognitive Architecture.
+Most of my work amounts to adding subsymbolic mechanisms to the [Soar cognitive architecture](https://soar.eecs.umich.edu/).
 
 I've implemented spreading activation, base-level inhibition, and a few other bits in Soar. Recently, I've been 
 focusing on implementation of event cognition functionality. My general underlying focus is on implementing 

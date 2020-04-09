@@ -21,6 +21,8 @@ And, once upon a time, I thought I was going to be a physicist:
 
 *Noise-induced nucleation in a bistable tunnel diode circuit*
 
+*Phase diffusion in graphene-based Josephson junctions* - Honestly, I only did sample prep for this one.
+
 ## Where the academic tries to demonstrate a personality
 
 <details><summary>Here's a story about COVID-19 isolation that I'm still writing. As of now, I'm missing pictures and have yet to edit.</summary>

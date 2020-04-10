@@ -9,19 +9,29 @@ readily available.
 
 ## [Publications](https://scholar.google.com/citations?user=rLU0MfYAAAAJ "Google Scholar profile")
 
-*Anticipatory Thinking in Cognitive Architectures with Event Cognition Mechanisms*
+[*Anticipatory Thinking in Cognitive Architectures with Event Cognition Mechanisms*](http://ceur-ws.org/Vol-2558/short1.pdf)
 
-*An Architecture Approach to Modeling the Remote Associates Test*
+[*An Architecture Approach to Modeling the Remote Associates Test*](https://soar.eecs.umich.edu/pubs/schatz_iccm18.pdf)
 
-*Architectural Mechanisms for Mitigating Uncertainty during Long-Term Declarative Knowledge Access*
+[*Architectural Mechanisms for Mitigating Uncertainty during Long-Term Declarative Knowledge Access*](http://web.eecs.umich.edu/~soar/sitemaker/docs/pubs/Mitigating_Uncertainty_during_LT_Declarative_Knowledge_Access.pdf)
 
-*Efficient computation of spreading activation using lazy evaluation*
+[*Efficient computation of spreading activation using lazy evaluation*](http://web.eecs.umich.edu/~soar/sitemaker/docs/pubs/Efficient_Computation_of_Spreading_Activation.pdf)
 
 And, once upon a time, I thought I was going to be a physicist:
 
-*Noise-induced nucleation in a bistable tunnel diode circuit*
+*Noise-induced nucleation in a bistable tunnel diode circuit* - <sub><sup>I wish I could find the actual paper... But to make a long story short, tunnel diode electronic circuits are excellect real physical systems with interesting nonlinear dynamics such as Hopf bifurcations. We did an impressive measurement of the random switching behavior in such a circuit where the circuit could switch from one stable state to another as fast as a microsecond or as slow as seconds. Ah, when science seemed simple...</sup></sub>
 
 *Phase diffusion in graphene-based Josephson junctions* - Honestly, I only did sample creation and prep for this one.
+
+## Other "Qualifications"
+
+I was twice a graduate student instructor for Discrete Math at UofM. [I actually received an award for it](https://ece.engin.umich.edu/stories/award-winning-eecs-2014-graduate-student-instructors-instructional-aides-recognized "Technically, an honorable mention."), but more importantly, I received good evaluations from the students. Here's my favorite:
+
+"I originally didn't plan on attending discussion but I reluctantly went to retrieve my first midterm. Turns out, Steven Jones is hilarious and really knows his stuff, so I kept coming back".
+
+I think I have presented at each [Soar workshop](https://soar.eecs.umich.edu/Soar-RelatedResearch/WorkshopPresentations) since 2014. [This is probably my favorite talk](https://soar.eecs.umich.edu/workshop/36/files/2016_spread_update_workshop.pdf), summarizing my approach to implementing spreading activation in Soar.
+
+I am an invited speaker at the [Merit Member Conference](https://www.merit.edu/merit-member-conference/steven-jones/) along with Bryan Stearns, another member of the Soar lab.
 
 ## Where the academic tries to demonstrate a personality
 

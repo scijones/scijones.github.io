@@ -19,7 +19,7 @@ readily available.
 
 And, once upon a time, I thought I was going to be a physicist:
 
-*Noise-induced nucleation in a bistable tunnel diode circuit* - <details><summary>I wish I could find the actual paper...</summary> But to make a long story short, tunnel diode electronic circuits are excellect real physical systems with interesting nonlinear dynamics such as Hopf bifurcations. We did an impressive measurement of the random switching behavior in such a circuit where the circuit could switch from one stable state to another as fast as a microsecond or as slow as seconds. Ah, when science seemed simple...</details>
+*Noise-induced nucleation in a bistable tunnel diode circuit* - Tunnel Diode circuits are cool.
 
 *Phase diffusion in graphene-based Josephson junctions* - Honestly, I only did sample creation and prep for this one.
 

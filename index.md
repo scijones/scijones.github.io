@@ -23,7 +23,7 @@ And, once upon a time, I thought I was going to be a physicist:
 
 *Phase diffusion in graphene-based Josephson junctions* - Honestly, I only did sample creation and prep for this one.
 
-## Other "Qualifications"
+## Other Qualifications
 
 I was twice a graduate student instructor for Discrete Math at UofM. [I actually received an award for it](https://ece.engin.umich.edu/stories/award-winning-eecs-2014-graduate-student-instructors-instructional-aides-recognized "Technically, an honorable mention."), but more importantly, I received good evaluations from the students. Here's my favorite:
 

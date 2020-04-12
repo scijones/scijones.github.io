@@ -35,7 +35,7 @@ I am an invited speaker at the [Merit Member Conference](https://www.merit.edu/m
 
 ## Where the academic tries to demonstrate a personality
 
-Here's a story about COVID-19 isolation and apartments:
+Here's a story about COVID-19 isolation and apartments inspired by [this song](https://www.youtube.com/watch?v=xS1Ax_P1ny4):
 
 
 <br/> I decided that while alone in my ship for an indeterminate period of time, I may as well document some of my life. I realize some people on Earth may not understand the “daily” life out here ([there’s no real Earth-like schedule anymore](https://i.redd.it/jt4bmuw4hiq41.jpg) unless I enforce one by alarms and routine), so I hope this message helps to explain how things are going.  

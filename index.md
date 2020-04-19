@@ -1,4 +1,4 @@
-Hey, I'm Steven J. Jones and I'm a grad student at the University of Michigan in John Laird's Soar Group. I enjoy understanding how people think, to the extent that I can.
+<img align="right" src="/images/headshot.jpg" width="150"> Hey, I'm Steven J. Jones and I'm a grad student at the University of Michigan in John Laird's Soar Group. I enjoy understanding how people think, to the extent that I can. 
 
 Most of my work amounts to adding subsymbolic mechanisms to the [Soar cognitive architecture](https://soar.eecs.umich.edu/).
 

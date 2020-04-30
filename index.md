@@ -69,3 +69,5 @@ Here's a story about COVID-19 isolation and apartments inspired by [this song](h
 <br/> Despite the availability of virtual interaction, I am also enjoying solitude. When I follow the [social networking news media](https://www.forbes.com/sites/petersuciu/2019/10/11/more-americans-are-getting-their-news-from-social-media/), I am reminded of the notions that we were once more tribal, and [it honestly does not appear to me that much has changed](https://en.wikipedia.org/wiki/Tiger_King:_Murder,_Mayhem_and_Madness).  
 
 <br/>I hope this log helps the people of Earth to appreciate how life is different in space, but maybe, you'll also see that in some ways it is still the same.
+
+If you want to see a similar perspective from someone else, check out [this video](https://youtu.be/snAhsXyO3Ck).

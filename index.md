@@ -9,6 +9,10 @@ readily available.
 
 ## [Publications](https://scholar.google.com/citations?user=rLU0MfYAAAAJ "Google Scholar profile")
 
+[*An associative learning account for retrieval-induced forgetting*](https://cogsci.mindmodeling.org/2020/papers/0794/0794.pdf)
+
+It's just theory, but I like this one:
+
 [*Anticipatory Thinking in Cognitive Architectures with Event Cognition Mechanisms*](http://ceur-ws.org/Vol-2558/short1.pdf)
 
 [*An Architecture Approach to Modeling the Remote Associates Test*](https://soar.eecs.umich.edu/pubs/schatz_iccm18.pdf)
@@ -19,7 +23,9 @@ readily available.
 
 And, once upon a time, I thought I was going to be a physicist:
 
-*Noise-induced nucleation in a bistable tunnel diode circuit* - Tunnel Diode circuits are cool.
+*Switching time distributions and scaling behavior in a bistable tunnel diode circuit with adjustable noise intensity* -If you like the words "limit cycle annihilation" or "bifurcation types", have I got a circuit for you.
+
+*Noise-induced nucleation in a bistable tunnel diode circuit* - Tunnel diode circuits are cool.
 
 *Phase diffusion in graphene-based Josephson junctions* - Honestly, I only did sample creation and prep for this one.
 

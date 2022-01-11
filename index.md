@@ -42,28 +42,22 @@ I am an invited speaker at the [Merit Member Conference](https://www.merit.edu/m
 ## Hot sauce recommendations (I promise this was not sponsored.)
 
 Aura Solanales (The Brinery)
-
-*This is probably the most gourmet of my list.
+ * This is probably the most gourmet of my list.
 
 Bone Suckin' Sauce (Hiccuppin' Hot Habenero Sauce)
-
-*This is what goes on ribs. Period.
+ * This is what goes on ribs. Period.
 
 El Yucateco (green) Chile Habenero sauce
-
-*a supermarket mexican sauce that works. I also recommend Valentina extra hot (black label).
+ * a supermarket mexican sauce that works. I also recommend Valentina extra hot (black label).
 
 Tortugas' Lie Habenero Peppa Sauce
-
-*sweet and spicy
+ *sweet and spicy
 
 Blackbeard's Ghost (Oak City Hot Sauce Co.)
-
-*a little bit sweet -- good barbecue and rib sauce.
+ * a little bit sweet -- good barbecue and rib sauce.
 
 Salsitas Mendoza Hell Fire Hot Sauce
-
-*A bit of black pepper flavor
+ * A bit of black pepper flavor
 
 
 

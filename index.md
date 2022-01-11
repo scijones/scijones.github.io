@@ -37,7 +37,7 @@ I was twice a graduate student instructor for Discrete Math at UofM. [I actually
 
 I think I have presented at each [Soar workshop](https://soar.eecs.umich.edu/Soar-RelatedResearch/WorkshopPresentations) since 2014. [This is probably my favorite talk](https://soar.eecs.umich.edu/workshop/36/files/2016_spread_update_workshop.pdf), summarizing my approach to implementing spreading activation in Soar.
 
-I am an invited speaker at the [Merit Member Conference](https://www.merit.edu/merit-member-conference/steven-jones/) along with Bryan Stearns, another member of the Soar lab.
+I was an invited speaker at the [Merit Member Conference](https://www.techcentury.com/2020/02/24/merit-sets-keynoters-for-annual-member-conference-may-12-13/) along with Bryan Stearns, another member of the Soar lab.
 
 ## Hot sauce recommendations (I promise this was not sponsored.)
 

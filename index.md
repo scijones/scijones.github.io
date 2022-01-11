@@ -51,7 +51,7 @@ El Yucateco (green) Chile Habenero sauce
  * a supermarket mexican sauce that works. I also recommend Valentina extra hot (black label).
 
 Tortugas' Lie Habenero Peppa Sauce
- *sweet and spicy
+ * sweet and spicy
 
 Blackbeard's Ghost (Oak City Hot Sauce Co.)
  * a little bit sweet -- good barbecue and rib sauce.

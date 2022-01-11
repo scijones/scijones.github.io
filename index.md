@@ -39,7 +39,31 @@ I think I have presented at each [Soar workshop](https://soar.eecs.umich.edu/Soa
 
 I am an invited speaker at the [Merit Member Conference](https://www.merit.edu/merit-member-conference/steven-jones/) along with Bryan Stearns, another member of the Soar lab.
 
-## Where the academic tries to demonstrate a personality
+## Hot sauce recommendations (I promise this was not sponsored.)
+
+Aura Solanales (The Brinery)
+*This is probably the most gourmet of my list.
+
+Bone Suckin' Sauce (Hiccuppin' Hot Habenero Sauce)
+*This is what goes on ribs. Period.
+
+El Yucateco (green) Chile Habenero sauce
+*a supermarket mexican sauce that works. I also recommend Cholula extra hot.
+
+Tortugas' Lie Habenero Peppa Sauce
+*sweet and spicy
+
+Blackbeard's Ghost (Oak City Hot Sauce Co.)
+*a little bit sweet -- good barbecue and rib sauce.
+
+Salsitas Mendoza Hell Fire Hot Sauce
+*A bit of black pepper flavor
+
+
+
+
+
+## Old post from when it was more possible to be somewhat whimsical about a pandemic. (Maybe it was always bad taste.)
 
 Here's a story about COVID-19 isolation and apartments inspired by [this song](https://www.youtube.com/watch?v=xS1Ax_P1ny4):
 

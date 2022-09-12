@@ -1,13 +1,15 @@
-<img align="right" src="/images/headshot.jpg" width="150"> Hey, I'm Steven J. Jones and I'm a grad student at the University of Michigan in John Laird's Soar Group. I enjoy understanding how people think, to the extent that I can. 
+<img align="right" src="/images/headshot.jpg" width="150"> Hey, I'm Steven J. Jones and I'm a graduate of John Laird's Soar Group at the University of Michigan. Currently, I am employed at the [Center for Integrated Cognition](https://integratedcognition.ai/). I enjoy understanding how people think, to the extent that I can. 
 
-Most of my work amounts to adding subsymbolic mechanisms to the [Soar cognitive architecture](https://soar.eecs.umich.edu/).
+Most of my work amounts to adding subsymbolic mechanisms to the [Soar cognitive architecture](https://soar.eecs.umich.edu/). At a high level, what I care about is human-like or human-level intelligence, but I buy into the idea that there are aspects of our meatware that we do not need to replicate for AI.
 
-I've implemented spreading activation, base-level inhibition, and a few other bits in Soar. Recently, I've been 
-focusing on implementation of event cognition functionality. My general underlying focus is on implementing 
+I've implemented spreading activation, base-level inhibition, and a few other bits in Soar. I recently studied mechanisms for supporting
+event cognition functionality in Soar, especially in episodic memory. My general underlying focus is on implementing 
 subsymbolic mechanisms which provide new functionality to agents by making different types of knowledge more 
 readily available.
 
 ## [Publications](https://scholar.google.com/citations?user=rLU0MfYAAAAJ "Google Scholar profile")
+
+[*Modeling the Remote Associates Test as Retrievals from Semantic Memory*](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cogs.13145)
 
 [*An associative learning account for retrieval-induced forgetting*](https://cogsci.mindmodeling.org/2020/papers/0794/0794.pdf)
 
@@ -37,7 +39,7 @@ I was twice a graduate student instructor for Discrete Math at UofM. [I actually
 
 I think I have presented at each [Soar workshop](https://soar.eecs.umich.edu/Soar-RelatedResearch/WorkshopPresentations) since 2014. [This is probably my favorite talk](https://soar.eecs.umich.edu/workshop/36/files/2016_spread_update_workshop.pdf), summarizing my approach to implementing spreading activation in Soar.
 
-I was an invited speaker at the [Merit Member Conference](https://www.techcentury.com/2020/02/24/merit-sets-keynoters-for-annual-member-conference-may-12-13/) along with Bryan Stearns, another member of the Soar lab.
+I was an invited speaker at the [Merit Member Conference](https://www.techcentury.com/2020/02/24/merit-sets-keynoters-for-annual-member-conference-may-12-13/) along with Bryan Stearns, another member of the Soar lab. He's cool.
 
 ## Hot sauce recommendations (I promise this was not sponsored.)
 
@@ -58,46 +60,3 @@ Blackbeard's Ghost (Oak City Hot Sauce Co.)
 
 Salsitas Mendoza Hell Fire Hot Sauce
  * A bit of black pepper flavor
-
-
-
-
-
-## Old post from when it was more possible to be somewhat whimsical about a pandemic. (Maybe it was always bad taste.)
-
-Here's a story about COVID-19 isolation and apartments inspired by [this song](https://www.youtube.com/watch?v=xS1Ax_P1ny4):
-
-
-<br/> I decided that while alone in my ship for an indeterminate period of time, I may as well document some of my life. I realize some people on Earth may not understand the “daily” life out here ([there’s no real Earth-like schedule anymore](https://i.redd.it/jt4bmuw4hiq41.jpg) unless I enforce one by alarms and routine), so I hope this message helps to explain how things are going.  
-
-
-<br/> One thing you may not understand regarding ships like mine is [how much I depend on intermittent supply shipments](https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/food-prices-and-spending/) to maintain the ecosystem that supports my life onboard this ship. This ship features almost no long-term self-sustaining life support. [These shipments of supplies](https://www.ams.usda.gov/services/transportation-analysis) are what allow lives like mine to persist in the [harsh and unnatural environment](https://www.ers.usda.gov/data-products/food-access-research-atlas/go-to-the-atlas.aspx "Food deserts are bad, mmkay?") of space.  
-
-
-
-<br/> I decided that I should first report on what basic life support I do have. While I do have plants, [they are not an attempt to promote some equilibrium with my breathing](https://www.sciencefocus.com/science/how-many-plants-would-i-need-in-an-airtight-room-to-be-able-to-breathe/); my breathing’s CO2 production far exceeds the consumption of these plants and my O2 consumption far exceeds their production. However, [by exchanging atmospheric gases with external shipments](https://en.wikipedia.org/wiki/Natural_ventilation#Wind_driven_ventilation "opening windows"), I can maintain equilibrium. The problem is that [recent news of a virus on other ships makes me wary of such exchange](https://www.ccn.com/japan-scientists-find-new-transmission-route-of-coronavirus-in-breakthrough-study/). In response, [I have air filtration and humidification in place in order to prevent my health from degrading](https://www.epa.gov/indoor-air-quality-iaq/what-can-i-do-improve-my-current-homes-indoor-air-quality-1) while keeping this artificial environment sealed. That’s the status of my air supply.  
-
-
-
-<br/> [Water shipments appear to be proceeding as normal.](https://en.wikipedia.org/wiki/Tap_water) Just the same, I do have my own emergency supply and I also process my incoming shipments with my [ship’s filtration system](https://en.wikipedia.org/wiki/Water_filter#Point-of-use_filters "a brita pitcher") for drinking water. Because of a limited filtration rate using my onboard systems, I use the shipped water as-is for the remaining applications of bathing, washing tools, and washing clothing.  
-
-
-
-<br/> My food supply is not vast, but I have sufficient reserves to last me for awhile should shipments become rationed. Emergency supplies include [meal replacements that are designed to technically fit my nutritional needs](https://huel.com), but while I can afford it, I’ve also been using shipments of frozen food and dry goods to create meals. I know that it is an inefficient use of my labor time while [I am supposed to be engaged in research out here](https://www.washingtonpost.com/history/2020/03/12/during-pandemic-isaac-newton-had-work-home-too-he-used-time-wisely/ "This was unironically sent with what were honestly good intentions from a faculty member."), but the meals themselves appear to be an efficient use of my ingredients while providing additional sanity. Also, by making [large batches](https://www.countryliving.com/food-drinks/g1903/slow-cooker-recipes/), I am able to reduce the total labor spent per calorie intake.  
-
-
-<br/> In order to maintain my physical health while isolated on this ship, I have been communicating with another in isolation through video chat and we have been working out almost daily. Without this routine physical activity, my body and mind would decay. Though I have the equipment on my ship and the interaction is only social, I find it helps me to maintain my routine.  
-
-<br/> Sanity is probably the more interesting thing to consider. On Earth, the social interaction that you take for granted does not have to be regulated as yet another life support system. However, [in my profession, mental health is the more likely killer.](https://www.theatlantic.com/education/archive/2018/11/anxiety-depression-mental-health-graduate-school/576769/) Additionally, while it is not usually advised, I am the only human on my ship. Thankfully, I have a lizard and a cat as pets. I am lucky. While many out here scrounge by, my research funding has afforded me the luxury of unnecessary life support for these companions. I have found that my cat has acclimated better to the ship’s rhythmic lighting meant to simulate day. Each morning, he wakes me so that I will feed him. I do not have an automatic dispenser as I am still figuring out the correct rationing for him to maintain a healthy weight while not vomiting and requiring me to expend additional labor maintaining the ship. The lizard, honestly, does not provide much companionship and I am taking care of it until I can finally dock with my companion who disembarked at a port earlier to be with family during this viral outbreak.  
-
-
-
-<br/> This exotic virus is probably not like one that you have experienced during your life on Earth, but [it is like historical outbreaks earlier in Earth’s history.](https://www.businessinsider.com/pandemics-that-changed-the-course-of-human-history-coronavirus-flu-aids-plague) In response to it, most [corporations](https://www.stanfordlawreview.org/print/article/why-the-constitution-was-written-down/ "I don't know how governments are much different from corporations if you think of constitutions as corporate charters.") have [enforced strict isolation between ships](https://www.nytimes.com/interactive/2020/us/coronavirus-stay-at-home-order.html), so now ships like mine with only a single human are limited to purely virtual interaction. I have been engaged in video games that include both combat and resource management simulations. Other times, I simply exchange ordinary conversation with others. These interactions are limited to those who do not have sufficiently high distance [such that the latency of communication over the distances of space becomes an issue](https://en.wikipedia.org/wiki/Matchmaking_(video_games)#Server_browsers). Because of the outbreak, [some of the services that provide this vital ship-to-ship communication have been congested and service has suffered as a result](https://twitter.com/blizzardcs/status/1245799798411845633?s=21). I don’t want to digress too far, but it disappoints me to find this is the case, given the funding [we were granted to establish this communication network](https://www.ntia.doc.gov/legacy/broadbandgrants/comments/61BF.pdf "I didn't actually read this.").  
-
-
-
-<br/> Despite the availability of virtual interaction, I am also enjoying solitude. When I follow the [social networking news media](https://www.forbes.com/sites/petersuciu/2019/10/11/more-americans-are-getting-their-news-from-social-media/), I am reminded of the notions that we were once more tribal, and [it honestly does not appear to me that much has changed](https://en.wikipedia.org/wiki/Tiger_King:_Murder,_Mayhem_and_Madness).  
-
-<br/>I hope this log helps the people of Earth to appreciate how life is different in space, but maybe, you'll also see that in some ways it is still the same.
-
-If you want to see a similar perspective from someone else, check out [this video](https://youtu.be/snAhsXyO3Ck).
